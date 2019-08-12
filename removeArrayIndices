@@ -1,0 +1,7 @@
+var array = [1, 2, 3, 4, 5]
+
+func remove(havingIndexValue: Int) {
+    print(havingIndexValue)
+}
+remove(havingIndexValue: array.remove(at: 0))
+array
